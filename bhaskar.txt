@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-change2
-=======
-hello..
-This is git...
-better to execute...
-`
->>>>>>> bugfix
